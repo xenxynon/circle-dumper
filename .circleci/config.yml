@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   dump:
    docker:
-      - image: aarunalr/aosp-build
+      - image: z4nyx/docker:latest
    steps:
       - run:
           command: |

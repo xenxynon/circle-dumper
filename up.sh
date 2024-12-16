@@ -1,3 +1,4 @@
+#!/bin/bash
 git config --global user.name "xenxynon"
 git config --global user.email "flynryder427@gmail.com"
 git config --global color.ui false
